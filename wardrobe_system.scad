@@ -1,3 +1,8 @@
+// DESCRIPTION:
+// Adaptive wardrobe system that automatically scales based on room width.
+// Includes intelligent module distribution, remainder handling, and ergonomic hardware placement.
+//
+// All dimensions in millimetres.
 // =========================================================================
 // PROJECT: ADAPTIVE PARAMETRIC WARDROBE SYSTEM
 // ARCHITECT: Timothy Okibe Ogese
